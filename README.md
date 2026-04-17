@@ -78,7 +78,7 @@ A collection of modern UI designs built to practice animations and improve user 
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://www.linkedin.com/in/ibad-ullah-955732333/)(https://www.linkedin.com/in/ibad-ullah-955732333/)
+[![LinkedIn](https://www.google.com/search?sca_esv=a963c435ce01c701&rlz=1C1CHBF_enPK1150PK1150&sxsrf=ANbL-n7rQpB2IGWsJRRnMKn64TM17DbBAw:1776420828471&q=linkedin+logo&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c--pF5AdxWIF9BPZPOBT9HoCSc0kAJvWDHngZ_VsNdyU2SWWeWHeAJwkkILapfpsDQPZ8l415d_l598s2CpCL0cDplgqRm93JKNSjqOs4YsTovg2RkB2wZ2itew32OmvYV1t0wqg&udm=2&sa=X&ved=2ahUKEwjmm8-j0_STAxXDU6QEHUsmHvEQxKsJKAB6BAgbEAE&ictx=0&biw=1024&bih=492&dpr=1.88)(https://www.linkedin.com/in/ibad-ullah-955732333/)
 
 📧 Email: [ibadk304@gmail.com](mailto:ibadk304@gmail.com.com)
 
