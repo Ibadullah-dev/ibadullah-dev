@@ -1,17 +1,29 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=42A5F5&height=250&section=header&text=Ibad%20Ullah&fontSize=70&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=42A5F5&height=200&section=header&text=Ibad%20Ullah&fontSize=70&animation=fadeIn&fontAlignY=40" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/Ibadullah-dev/Ibadullah-dev/blob/main/profile.jpg?raw=true" width="200" style="border-radius: 50%; border: 4px solid #42A5F5;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=Full+Stack+Flutter+Developer+🚀;Architecting+Mobile+Solutions+📱;Software+Engineering+Student+💻;UI%2FUX+Design+Specialist+🎨" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=42A5F5&center=true&vCenter=true&width=500&lines=Flutter+Developer+🚀;Software+Engineering+Student+💻;UI%2FUX+Enthusiast+🎨;Crafting+Mobile+Experiences+✨" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ibadullah-dev&label=PROFILE+VIEWS&color=42A5F5&style=flat-square" alt="Profile Views" />
+</p>
+
+---
+
+### 🛠️ Core Stack & Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,figma,postman" />
+  </a>
 </p>
 
 
