@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=42A5F5&height=250&section=header&text=Ibad%20Ullah&fontSize=70&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=42A5F5&height=250&section=header&text=Ibad%20Ullah&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ibadullah-dev/Ibadullah-dev/main/profile-pic.jpg" alt="Ibad Ullah" width="200" style="border-radius: 50%; border: 4px solid #42A5F5;" />
+  <img src="https://github.com/Ibadullah-dev/Ibadullah-dev/blob/main/profile.jpg?raw=true" width="200" style="border-radius: 50%; border: 4px solid #42A5F5;" alt="Ibad Ullah" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=42A5F5&center=true&vCenter=true&width=500&lines=Flutter+Developer+🚀; Software+Engineering+Student+💻;UI%2FUX+Enthusiast+🎨;Crafting+Mobile+Experiences+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=42A5F5&center=true&vCenter=true&width=500&lines=Flutter+Developer+🚀;Software+Engineering+Student+💻;UI%2FUX+Enthusiast+🎨;Crafting+Mobile+Experiences+✨" alt="Typing SVG" />
 </p>
 
 <p align="center">
