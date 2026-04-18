@@ -1,5 +1,33 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=1A237E&height=200&section=header&text=Mr%20IBAD%20ULLAH&fontSize=70&animation=fadeIn&fontAlignY=40" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=BBDEFB&height=200&section=header&text=Mr%20IBAD%20ULLAH&fontSize=70&animation=fadeIn&fontAlignY=40&fontColor=1A237E" alt="Header" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=42A5F5&height=200&section=header&text=Ibad%20Ullah&fontSize=70&animation=fadeIn&fontAlignY=40" alt="Header" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=Full+Stack+Flutter+Developer+🚀;Architecting+Mobile+Solutions+📱;Software+Engineering+Student+💻;UI%2FUX+Design+Specialist+🎨" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ibadullah-dev&label=PROFILE+VIEWS&color=42A5F5&style=flat-square" alt="Profile Views" />
+</p>
+
+---
+
+### 📊 Development Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ibadullah-dev&show_icons=true&theme=transparent&title_color=42A5F5&text_color=777&icon_color=42A5F5&hide_border=true" alt="Ibad's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibadullah-dev&layout=compact&theme=transparent&title_color=42A5F5&text_color=777&hide_border=true" alt="Most Used Languages" />
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,figma,postman" />
 </p>
 
 <p align="center">
