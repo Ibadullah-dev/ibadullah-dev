@@ -12,14 +12,7 @@
 
 ---
 
-### 📊 Development Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ibadullah-dev&show_icons=true&theme=transparent&title_color=42A5F5&text_color=777&icon_color=42A5F5&hide_border=true" alt="Ibad's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibadullah-dev&layout=compact&theme=transparent&title_color=42A5F5&text_color=777&hide_border=true" alt="Most Used Languages" />
-</p>
-
----
 
 ### 🛠️ Tech Stack
 
@@ -99,11 +92,10 @@ I am a **Final Year Software Engineering student** based in Pakistan. I speciali
 </p>
 
 ---
-
 ### 🌐 3D GitHub Activity
 
 <p align="center">
-<img src="https://github-profile-3d-contrib.vercel.app/api?username=Ibadullah-dev&theme=tokyo" />
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Ibadullah-dev&theme=tokyo" />
 </p>
 
 ---
