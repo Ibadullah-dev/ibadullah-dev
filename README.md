@@ -3,21 +3,15 @@
 </p>
 
 <p align="center">
+  <img src="https://i.ibb.co/3ykY1vS/Ibad-Ullah.jpg" alt="Ibad Ullah" width="200" style="border-radius: 50%; border: 4px solid #42A5F5;" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=42A5F5&center=true&vCenter=true&width=500&lines=Flutter+Developer+🚀;Software+Engineering+Student+💻;UI%2FUX+Enthusiast+🎨;Crafting+Mobile+Experiences+✨" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ibadullah-dev&label=PROFILE+VIEWS&color=42A5F5&style=flat-square" alt="Profile Views" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ibadullah-dev&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=42A5F5&center=true&width=600&lines=Crafting+seamless+mobile+experiences;Building+with+Clean+Architecture;Flutter+Internship+Seeker;UI%2FUX+Design+Lover" alt="Typing SVG" />
 </p>
 
 ---
