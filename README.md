@@ -95,7 +95,7 @@ I am a **Final Year Software Engineering student** based in Pakistan. I speciali
 ### 🌐 3D GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Ibadullah-dev&theme=tokyo" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ibadullah-dev&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
 ---
