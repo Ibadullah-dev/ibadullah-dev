@@ -30,11 +30,6 @@
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ibadullah-dev&label=PROFILE+VIEWS&color=42A5F5&style=flat-square" alt="Profile Views" />
-</p>
-
----
 
 
 
@@ -94,11 +89,13 @@ I am a **Final Year Software Engineering student** based in Pakistan. I speciali
 ---
 ### 🏆 My Achievements
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ibadullah-dev&theme=nord&no-frame=true&column=4" alt="Trophies" />
+  <a href="https://github.com/Ibadullah-dev">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ibadullah-dev&show_icons=true&theme=nord&hide_border=true&title_color=42A5F5" alt="Ibad's Stats" />
+  </a>
+  <a href="https://github.com/Ibadullah-dev">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ibadullah-dev&theme=nord&hide_border=true&sideLabels=42A5F5" alt="Ibad's Streak" />
   </a>
 </p>
----
 
 ### 📫 Connect With Me
 
