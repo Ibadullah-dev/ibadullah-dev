@@ -1,9 +1,6 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=BBDEFB&height=200&section=header&text=Mr%20IBAD%20ULLAH&fontSize=70&animation=fadeIn&fontAlignY=40&fontColor=1A237E" alt="Header" />
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=42A5F5&height=200&section=header&text=Ibad%20Ullah&fontSize=70&animation=fadeIn&fontAlignY=40" alt="Header" />
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=Full+Stack+Flutter+Developer+🚀;Architecting+Mobile+Solutions+📱;Software+Engineering+Student+💻;UI%2FUX+Design+Specialist+🎨" alt="Typing SVG" />
@@ -46,13 +43,6 @@
 
 ---
 
-### 🛠️ Core Stack & Tools
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,figma,postman" />
-  </a>
-</p>
 
 
 ### 📖 About Me
