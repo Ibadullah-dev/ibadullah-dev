@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=42A5F5&height=200&section=header&text=Ibad%20Ullah&fontSize=70&animation=fadeIn&fontAlignY=40" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1A237E&height=200&section=header&text=Mr%20IBAD%20ULLAH&fontSize=70&animation=fadeIn&fontAlignY=40" alt="Header" />
 </p>
 
 <p align="center">
