@@ -1,6 +1,16 @@
-# 💫 Hi there, I'm Ibad Ullah 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=42A5F5&height=250&section=header&text=Ibad%20Ullah&fontSize=70&animation=fadeIn&fontAlignY=35" />
+</p>
 
-### 🚀 Flutter Developer | 💻 Software Engineering Student | 🎨 UI/UX Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=42A5F5&center=true&vCenter=true&width=500&lines=Flutter+Developer+🚀;Software+Engineering+Student+💻;UI%2FUX+Enthusiast+🎨;Crafting+Mobile+Experiences+✨" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ibadullah-dev&label=PROFILE+VIEWS&color=42A5F5&style=flat-square" alt="Profile Views" />
+</p>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ibadullah-dev&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
@@ -26,41 +36,36 @@ I am a **Final Year Software Engineering student** based in Pakistan. I speciali
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack (Enhanced View)
 
-| 🚀 Category           | 💡 Tools & Technologies             |
-| :-------------------- | :---------------------------------- |
-| 📱 Mobile Development | Flutter, Dart                       |
-| 🔄 State Management   | Provider, ChangeNotifier            |
-| 🧠 Backend & DB       | Firebase, SQLite, FastAPI           |
-| 📊 Data Science       | Python, Pandas, NumPy, Scikit-Learn |
-| ⚙️ Development Tools  | Git, GitHub, VS Code, Postman       |
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **📱 Mobile Development** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) |
+| **🔄 State Management** | `Provider` `ChangeNotifier` |
+| **🧠 Backend & DB** | ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405E.svg?style=flat-square&logo=sqlite&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) |
+| **📊 Data Science** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) `Pandas` `NumPy` `Scikit-Learn` |
+| **⚙️ Dev Tools** | ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) `VS Code` `Postman` |
 
 ---
 
 ### 🌟 Featured Projects
 
-#### 📱 SmartPocket (Student Expenses)
+> [!TIP]
+> ### 📱 [SmartPocket (Student Expenses)](https://github.com/Ibadullah-dev/student_expences)
+> **Description:** Smart expense tracking app for students with categorized spending and budget alerts.
+> - **Tech:** Flutter, Provider, SQLite
 
-Smart expense tracking app for students with categorized spending and budget alerts.
+> [!IMPORTANT]
+> ### 📄 [XPS to PDF Converter](https://github.com/Ibadullah-dev/xps_file_xconverter_app)
+> **Description:** File conversion utility with preview support.
+> - **Tech:** Flutter, FastAPI
 
-* **Tech:** Flutter, Provider, SQLite
-* **Highlight:** Clean UI with local data persistence
+> [!NOTE]
+> ### 🧠 [Diabetes Prediction Project](https://github.com/Ibadullah-dev/diabetes_datascience_project)
+> **Description:** Machine Learning model for diabetes prediction.
+> - **Tech:** Python, Scikit-Learn
 
-#### 📄 XPS to PDF Converter
-
-File conversion utility with preview support.
-
-* **Tech:** Flutter, FastAPI
-* **Highlight:** Efficient API-based file processing
-
-#### 🧠 Diabetes Prediction Project
-
-Machine Learning model for diabetes prediction.
-
-* **Tech:** Python, Scikit-Learn
-* **Highlight:** Data analysis and predictive modeling
-
+---
 ---
 
 ### 📊 GitHub Stats
