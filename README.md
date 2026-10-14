@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=Full+Stack+Flutter+Developer+🚀;Architecting+Mobile+Solutions+📱;Software+Engineering+Student+💻;UI%2FUX+Design+Specialist+🎨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=Full+Stack+Flutter+Developer+🚀;Architecting+Mobile+Solutions+📱;Software+Engineer+💻;UI%2FUX+Design+Specialist+🎨" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00C853&center=true&width=700&lines=Final+Year+Software+Engineering+Student+from+Pakistan;Building+real-world+Flutter+apps+with+clean+architecture;Focused+on+UI%2FUX+and+performance+optimization;Always+learning+and+improving+step+by+step" />
 </p>
 
-I am a **Final Year Software Engineering student** based in Pakistan. I specialize in building high-performance mobile applications using **Flutter & Dart**. I enjoy turning complex backend logic into smooth and intuitive user experiences.
+I am a **. Software Engineer** based in Pakistan. I specialize in building high-performance mobile applications using **Flutter & Dart**. I enjoy turning complex backend logic into smooth and intuitive user experiences.
 
 * 🧠 **Currently Learning:** Machine Learning integration in mobile apps & advanced UI animations
 * 🎯 **Goal:** Secure a Flutter Developer Internship and work on real-world scalable applications
