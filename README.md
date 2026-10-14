@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=BBDEFB&height=200&section=header&text=Mr%20IBAD%20ULLAH&fontSize=70&animation=fadeIn&fontAlignY=40&fontColor=1A237E" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=BBDEFB&height=200&section=header&text=ENGR%20IBAD%20ULLAH&fontSize=70&animation=fadeIn&fontAlignY=40&fontColor=1A237E" alt="Header" />
 
 
 <p align="center">
@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=Full+Stack+Flutter+Developer+🚀;Architecting+Mobile+Solutions+📱;Software+Engineering+Student+💻;UI%2FUX+Design+Specialist+🎨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=Full+Stack+Flutter+Developer+🚀;Architecting+Mobile+Solutions+📱;Software+Engineer+💻;UI%2FUX+Design+Specialist+🎨" alt="Typing SVG" />
 </p>
 
 <p align="center">
